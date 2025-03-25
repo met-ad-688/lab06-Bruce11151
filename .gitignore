@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
-
+lightcast_job_postings.csv
+*.csv
 # Distribution / packaging
 .Python
 build/
